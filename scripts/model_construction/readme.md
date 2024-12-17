@@ -20,7 +20,7 @@ Note: We have prepared scripts for the tasks in our paper, comment and change th
 Integer for tasks, starts from 0:
 dummy, standard, survival, priority, survival priority, sub category, survival sub category, importance, special
 
-4. Execute `trainwrapper.py` and `run.py` using your Python interpreter.
+4. Execute `trainwrapper.py 1` and `run.py` using your Python interpreter.
 
 
 
